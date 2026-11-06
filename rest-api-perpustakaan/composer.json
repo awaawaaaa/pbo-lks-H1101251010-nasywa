@@ -1,0 +1,13 @@
+{
+    "name": "nasywa/rest-api-perpustakaan",
+    "description": "REST API Perpustakaan menggunakan PHP Modern",
+    "type": "project",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
